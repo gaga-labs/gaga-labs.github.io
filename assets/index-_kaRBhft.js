@@ -1525,12 +1525,13 @@ background: #f00;
     padding: 0 90px;
     
     &>dl{
-        width: 33.3333%;
+        min-width: 33.3333%;
         dt{
             font-size: 12px;
             font-weight: 600;
             color: #63A965;
             line-height: 17px;
+            white-space: nowrap;
         }
         dd{
             font-size: 24px;
