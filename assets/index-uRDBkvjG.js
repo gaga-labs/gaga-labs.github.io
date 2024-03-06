@@ -1327,7 +1327,7 @@ background: #f00;
         }
     }
     
-`;function PJ(){var e;const t=Oe(n=>n.info);return g.jsxs(kJ,{children:[g.jsx("div",{className:"title",children:"Today’s Quest"}),g.jsxs("div",{className:"desc",children:["1. Post a #",$n," tweet every day.",g.jsx("br",{}),"2. Reply twice containing #",$n,"."]}),g.jsxs("dl",{children:[g.jsx("dt",{children:"Points"}),g.jsxs("dd",{children:["+ ",(t==null?void 0:t.questOnePrize)||0]})]}),g.jsx("a",{href:`https://twitter.com/compose/tweet?text=%23${$n}%20I%27m%20experiencing%20social%20inscriptions%20using%20my%20link%20to%20cast%20https%3A%2F%2Ffriendgaga.xyz%2Foauth%2Ftwitter%3Fcode%3D${(e=t==null?void 0:t.userInfo)==null?void 0:e.invite_code} `,target:"_blank",rel:"noreferrer",className:"go",children:"Go"})]})}const NJ=J.div`
+`;function PJ(){var e;const t=Oe(n=>n.info);return g.jsxs(kJ,{children:[g.jsx("div",{className:"title",children:"Today’s Quest"}),g.jsxs("div",{className:"desc",children:["1. Post a #",$n," tweet every day.",g.jsx("br",{}),"2. Reply twice containing #",$n,"."]}),g.jsxs("dl",{children:[g.jsx("dt",{children:"Points"}),g.jsxs("dd",{children:["+ ",(t==null?void 0:t.questOnePrize)||0]})]}),g.jsx("a",{href:`https://twitter.com/compose/tweet?text=%23${$n}%20%40gagafriendx%20I%27m%20experiencing%20social%20inscriptions%20using%20my%20link%20to%20cast%20https%3A%2F%2Ffriendgaga.xyz%2Foauth%2Ftwitter%3Fcode%3D${(e=t==null?void 0:t.userInfo)==null?void 0:e.invite_code} `,target:"_blank",rel:"noreferrer",className:"go",children:"Go"})]})}const NJ=J.div`
     @media (max-width: 1270px) {
         .title{
             font-size: 18px;
